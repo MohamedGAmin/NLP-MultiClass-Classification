@@ -1,4 +1,4 @@
-# NLP-MultiClass-Classification
+# NLP-MultiLabel-Classification
 
 # Objective
 
